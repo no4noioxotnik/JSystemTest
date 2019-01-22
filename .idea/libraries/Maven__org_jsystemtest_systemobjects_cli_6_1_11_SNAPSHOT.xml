@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jsystemtest.systemobjects:cli:6.1.11-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jsystemtest/systemobjects/cli/6.1.11-SNAPSHOT/cli-6.1.11-20190121.090310-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jsystemtest/systemobjects/cli/6.1.11-SNAPSHOT/cli-6.1.11-20190121.090310-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jsystemtest/systemobjects/cli/6.1.11-SNAPSHOT/cli-6.1.11-20190121.090310-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

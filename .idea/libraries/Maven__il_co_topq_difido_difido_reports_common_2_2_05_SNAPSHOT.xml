@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: il.co.topq.difido:difido-reports-common:2.2.05-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/il/co/topq/difido/difido-reports-common/2.2.05-SNAPSHOT/difido-reports-common-2.2.05-20190122.101115-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/il/co/topq/difido/difido-reports-common/2.2.05-SNAPSHOT/difido-reports-common-2.2.05-20190122.101115-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/il/co/topq/difido/difido-reports-common/2.2.05-SNAPSHOT/difido-reports-common-2.2.05-20190122.101115-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

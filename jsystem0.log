@@ -1,0 +1,182 @@
+янв 22, 2019 4:08:48 PM jsystem.framework.RunProperties <init>
+INFO: create run properties at :C:\Users\Ragimov\IdeaProjects\jsystemTest\my-test-proj\.run.properties
+янв 22, 2019 4:08:48 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 4:08:48 PM jsystem.framework.JSystemProperties restoreFromBackup
+SEVERE: JSystem properties file was empty, restoring from backup.
+янв 22, 2019 4:08:48 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 4:08:55 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 4:08:55 PM jsystem.framework.sut.SutFactory init
+FINE: Use sut file: default.xml
+янв 22, 2019 4:08:55 PM jsystem.framework.scenario.JTestContainer <init>
+FINE: JTest container : scenarios\default
+янв 22, 2019 4:08:55 PM jsystem.utils.PerformanceUtil endMeasure
+INFO: Loading scenario: scenarios/default Took 0.01 seconds.
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter startTest
+FINE: Recieved start test event
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter startTest
+FINE: Test name is org.jsystem.TestsExamples
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '<span class="test_info_table">'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Test: TestsExamples.null'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '(1)Steps in test: TestsExamples.null :'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '<span class="parameters">'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Can't display test code because java2html.jar is missing.'
+янв 22, 2019 4:08:55 PM jsystem.framework.report.RunnerListenersManager addTestInfo
+WARNING: Fail to load test code because java2html jar is missing. de.java2html.javasource.JavaSourceParser
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '</span>'
+янв 22, 2019 4:08:55 PM jsystem.framework.scenario.RunnerTest loadParameters
+FINE: Unknown parameter type: junit.framework.TestResult for: TestResult
+янв 22, 2019 4:08:55 PM junit.framework.SystemTestCaseImpl jsystemTestPreExecution
+INFO: Running test: null
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '16:08:55: File: C:\Users\Ragimov\IdeaProjects\jsystemTest\my-test-proj\target\.'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '16:08:55: Date: Tue Jan 22 16:08:55 MSK 2019'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '16:08:55: String: Some string'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '16:08:55: Integer: 5'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Start time: Tue Jan 22 16:08:55 MSK 2019'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'End time  : Tue Jan 22 16:08:55 MSK 2019'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Test running time: 0 sec.'
+янв 22, 2019 4:08:55 PM jsystem.extensions.report.difido.AbstractHtmlReporter endTest
+FINE: Received end test
+янв 22, 2019 4:08:55 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 4:08:56 PM jsystem.framework.scenario.ParametersManager retrieveTestParametersToEnvironment
+FINE: running from dev studio, no need to return parameters
+янв 22, 2019 4:53:58 PM jsystem.framework.RunProperties <init>
+INFO: create run properties at :C:\Users\Ragimov\IdeaProjects\jsystemTest\my-test-proj\.run.properties
+янв 22, 2019 4:53:58 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 4:53:58 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 4:53:58 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 4:53:59 PM jsystem.framework.sut.SutFactory init
+FINE: Use sut file: default.xml
+янв 22, 2019 7:03:29 PM jsystem.framework.RunProperties <init>
+INFO: create run properties at :C:\Users\Ragimov\IdeaProjects\jsystemTest\my-test-proj\.run.properties
+янв 22, 2019 7:03:29 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 7:03:29 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 7:03:29 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 7:03:29 PM jsystem.framework.sut.SutFactory init
+FINE: Use sut file: default.xml
+янв 22, 2019 7:03:29 PM jsystem.framework.scenario.JTestContainer <init>
+FINE: JTest container : scenarios\default
+янв 22, 2019 7:03:30 PM jsystem.framework.scenario.RunnerTest loadParameters
+FINE: Unknown parameter type: junit.framework.TestResult for: TestResult
+янв 22, 2019 7:03:30 PM jsystem.framework.scenario.RunnerTest loadParameters
+FINE: Unknown parameter type: junit.framework.TestResult for: TestResult
+янв 22, 2019 7:03:30 PM jsystem.framework.scenario.RunnerTest loadParameters
+FINE: Unknown parameter type: junit.framework.TestResult for: TestResult
+янв 22, 2019 7:03:30 PM jsystem.utils.PerformanceUtil endMeasure
+INFO: Loading scenario: scenarios/default Took 0.285 seconds.
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter startTest
+FINE: Recieved start test event
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter startTest
+FINE: Test name is org.jsystem.FileOperations
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '<span class="test_info_table">'
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Test: FileOperations.null'
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '(1)Steps in test: FileOperations.null :'
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '<span class="parameters">'
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Can't display test code because java2html.jar is missing.'
+янв 22, 2019 7:03:30 PM jsystem.framework.report.RunnerListenersManager addTestInfo
+WARNING: Fail to load test code because java2html jar is missing. de.java2html.javasource.JavaSourceParser
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '</span>'
+янв 22, 2019 7:03:30 PM jsystem.framework.scenario.RunnerTest loadParameters
+FINE: Unknown parameter type: junit.framework.TestResult for: TestResult
+янв 22, 2019 7:03:30 PM junit.framework.SystemTestCaseImpl jsystemTestPreExecution
+INFO: Running test: null
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Start time: Tue Jan 22 19:03:30 MSK 2019'
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'End time  : Tue Jan 22 19:03:30 MSK 2019'
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Test running time: 0 sec.'
+янв 22, 2019 7:03:30 PM jsystem.extensions.report.difido.AbstractHtmlReporter endTest
+FINE: Received end test
+янв 22, 2019 7:03:30 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 7:03:30 PM jsystem.framework.scenario.ParametersManager retrieveTestParametersToEnvironment
+FINE: running from dev studio, no need to return parameters
+янв 22, 2019 7:03:43 PM jsystem.framework.RunProperties <init>
+INFO: create run properties at :C:\Users\Ragimov\IdeaProjects\jsystemTest\my-test-proj\.run.properties
+янв 22, 2019 7:03:43 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 7:03:43 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 7:03:43 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 7:03:43 PM jsystem.framework.sut.SutFactory init
+FINE: Use sut file: default.xml
+янв 22, 2019 7:03:43 PM jsystem.framework.scenario.JTestContainer <init>
+FINE: JTest container : scenarios\default
+янв 22, 2019 7:03:44 PM jsystem.framework.scenario.RunnerTest loadParameters
+FINE: Unknown parameter type: junit.framework.TestResult for: TestResult
+янв 22, 2019 7:03:44 PM jsystem.framework.scenario.RunnerTest loadParameters
+FINE: Unknown parameter type: junit.framework.TestResult for: TestResult
+янв 22, 2019 7:03:44 PM jsystem.framework.scenario.RunnerTest loadParameters
+FINE: Unknown parameter type: junit.framework.TestResult for: TestResult
+янв 22, 2019 7:03:44 PM jsystem.utils.PerformanceUtil endMeasure
+INFO: Loading scenario: scenarios/default Took 0.28 seconds.
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter startTest
+FINE: Recieved start test event
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter startTest
+FINE: Test name is org.jsystem.FileOperations
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '<span class="test_info_table">'
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Test: FileOperations.null'
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '(1)Steps in test: FileOperations.null :'
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '<span class="parameters">'
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Can't display test code because java2html.jar is missing.'
+янв 22, 2019 7:03:44 PM jsystem.framework.report.RunnerListenersManager addTestInfo
+WARNING: Fail to load test code because java2html jar is missing. de.java2html.javasource.JavaSourceParser
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '</span>'
+янв 22, 2019 7:03:44 PM jsystem.framework.scenario.RunnerTest loadParameters
+FINE: Unknown parameter type: junit.framework.TestResult for: TestResult
+янв 22, 2019 7:03:44 PM junit.framework.SystemTestCaseImpl jsystemTestPreExecution
+INFO: Running test: null
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '19:03:44: Fail: User name is null.'
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter addError
+FINE: Received error event
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Start time: Tue Jan 22 19:03:44 MSK 2019'
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'End time  : Tue Jan 22 19:03:44 MSK 2019'
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title 'Test running time: 0 sec.'
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter endTest
+FINE: Received end test
+янв 22, 2019 7:03:44 PM jsystem.framework.RunProperties loadProperties
+CONFIG: the run properties doesn't exist,return new Properties object
+янв 22, 2019 7:03:44 PM jsystem.framework.scenario.ParametersManager retrieveTestParametersToEnvironment
+FINE: running from dev studio, no need to return parameters
+янв 22, 2019 7:03:44 PM jsystem.extensions.report.difido.AbstractHtmlReporter report
+FINE: Recieved report request with title '19:03:44: Fixture: root failTearDown'

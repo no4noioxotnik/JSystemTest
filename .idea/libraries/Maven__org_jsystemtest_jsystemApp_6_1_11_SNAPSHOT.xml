@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jsystemtest:jsystemApp:6.1.11-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jsystemtest/jsystemApp/6.1.11-SNAPSHOT/jsystemApp-6.1.11-20190121.090319-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jsystemtest/jsystemApp/6.1.11-SNAPSHOT/jsystemApp-6.1.11-20190121.090319-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jsystemtest/jsystemApp/6.1.11-SNAPSHOT/jsystemApp-6.1.11-20190121.090319-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
